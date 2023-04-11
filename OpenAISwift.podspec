@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OpenAISwift'
-  s.version          = '1.3.0'
+  s.version          = '1.3.1'
   s.license = { :type => "MIT", :file => "LICENSE.md" }
   s.summary          = 'OpenAI API Client Library in Swift'
   s.homepage         = 'https://github.com/adamrushy/OpenAISwift'
